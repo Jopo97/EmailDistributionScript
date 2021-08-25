@@ -1,0 +1,20 @@
+<div style="max-width: 500px; font-size: 11pt; font-family: &quot;Segoe UI&quot;, Arial, Helvetica;"><span style="font-size: 16pt; margin-left: 10px;">Here is your one-time passcode</span>
+  <br><span style="font-size: 30pt;">76468405</span>
+  <br>
+  <br>To view your message, enter the code in the web page where you requested it.
+  <br>
+  <br>NOTE: This one-time passcode expires 15 minutes after it was requested.
+  <br>
+  <br>
+  Not you? Contact our customer support team <a href="page2.php" style="color: rgb(17, 85, 204);" target="_blank">here</a>
+  <br>
+  <br>
+  <br>Don't want to use one-time passcode every time you get a protected message?&nbsp;Use your email address to&nbsp;
+  <a data-saferedirecturl="https://www.google.com/url?q=https://signup.live.com/signup&amp;source=gmail&amp;ust=1581438651238000&amp;usg=AFQjCNGjpkveK_RVjwztvkoi5UHN5X3gJA" href="https://signup.live.com/signup" style="color: rgb(17, 85, 204);" target="_blank">create a Microsoft account</a>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <hr><span style="color: rgb(136, 136, 136);">This message is automatically generated. Please don't reply to it.</span></div>
