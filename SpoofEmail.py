@@ -1,4 +1,4 @@
-# Email distribution program created by Jonah McElfatrick for CMP311 Professional Project Development and Delivery
+# Email distribution program created by Jonah McElfatrick
 # Finished on 24/02/2020
 import csv
 from email.utils import formatdate
